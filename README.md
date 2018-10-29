@@ -1,0 +1,2 @@
+# Sudoku
+Sudoku resolver (backtracking)
